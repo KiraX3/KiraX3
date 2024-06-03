@@ -1,7 +1,7 @@
 [![MasterHead](https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?t=st=1716756152~exp=1716759752~hmac=c0098a0338ff9edf1fe14c1a7e6c9cca7ba347706c927389883942deb39cd854&w=1380)]
 <h1 align="center">Hi 👋, I'm ibrahim_oulmouden</h1>
 <h3 align="center">A computer science student passionate frontend developer from Morocco</h3>
-<img align="center"alt=" " alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="center"alt=" " alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /><img align="center"alt=""alt="Coding"width="400"src="https://camo.githubusercontent.com/ecac26835631ca024e9b6a9b153236e3774e5091b8b98e7f9c7710825b640bb8/68747470733a2f2f737465616d75736572696d616765732d612e616b616d616968642e6e65742f7567632f38313436353932393037333334303439352f453646363441313435324238363039414230344131314534464635413230463343323038464236372f3f696d773d3530303026696d683d3530303026696d613d66697426696d706f6c6963793d4c6574746572626f7826696d636f6c6f723d253233303030303030266c6574746572626f783d66616c7365     " />
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirax3" alt="kirax3" /></a> </p>
